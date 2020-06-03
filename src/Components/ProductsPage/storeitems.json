@@ -1,0 +1,110 @@
+[
+    {
+        "title": "Light Blue",
+        "price": 74.96,
+        "description": "Light Blue Perfume by Dolce & Gabbana. Light Blue is an aroma anchored in flower notes and fruity aromas, perfect for women looking to freshen their scent and arouse the apple of their eye.",
+        "filter": "women",
+        "productCost": "moreExpensive",
+        "img": "img/lightblue.jpg",
+        "alt": "Light Blue women's perfume"
+    },
+    {
+        "title": "Versace Eros",
+        "price": 82,
+        "description": "Versace Eros Cologne by Versace. Let loose your passion and display your immense confidence with Versace Eros, a provocative men’s cologne. This daring fragrance blends aromatic, earthy and woody accords for a radiant and magnetic scent that’s sure to turn heads in any room you enter.",
+        "filter": "men",
+        "productCost": "moreExpensive",
+        "img": "img/ver67m.jpg",
+        "alt": "Versace Eros men's cologne"
+    },
+    {
+        "title": "Bright Crystal",
+        "price": 87.81,
+        "description": "Bright Crystal Perfume by Versace. A sweet floral heart of magnolia and peony is softened by watery lotus and blends into a warm, rich base of mahogany, musk and amber. Perfect for women of all ages.",
+        "filter": "women",
+        "productCost": "moreExpensive",
+        "img": "img/brightcrystal.jpg",
+        "alt": "Bright Crystal women's perfume"
+    },
+    {
+        "title": "Eternity(for men)",
+        "price": 39.26,
+        "description": "Eternity Cologne by Calvin Klein. Calls for confidence and strength. Mandarin orange, lemon, and bergamot give an instant punch of clear, juicy citrus. Their energizing sweetness is softened only by a dash of herbal lavender. Middle notes of coriander, basil, jasmine, and sage combine for a complex aroma. Spicy and green, floral and sweet, the nose luxuriates in their sexy entanglement.",
+        "filter": "men",
+        "productCost": "lessExpensive",
+        "img": "img/eternitymen.jpg",
+        "alt": "Eternity men's cologne"
+    },
+    {
+        "title": "Jimmy Choo",
+        "price": 43.55,
+        "description": "Jimmy Choo Perfume by Jimmy Choo. Jimmy Choo is an empowering and sensual scent for the woman who knows what she wants. This sophisticated and seductive fragrance makes for the perfect accessory when you desire to hold someone’s attention. With a generous longevity and sillage, this perfume can make a lasting impression.",
+        "filter": "women",
+        "productCost": "lessExpensive",
+        "img": "/img/jimmychoo.jpg",
+        "alt": "Jimmy Choo women's perfume"
+    },
+    {
+        "title": "Sauvage",
+        "price": 186.99,
+        "description": "Sauvage Cologne by Christian Dior. The inspiration for the fragrance is drawn from vast landscapes and wilderness, and its name is French for “wild.” The scent begins with top notes of pepper and Calabrian bergamot followed by a menagerie of heart notes such as patchouli, geranium, vetiver, lavender, pink pepper, Sichuan pepper, and elemi. Its warm and woody base consists of cedar, labdanum, and ambroxan.",
+        "filter": "men",
+        "productCost": "moreExpensive",
+        "img": "/img/sauvage.jpg",
+        "alt": "Sauvage men's cologne"
+    },
+    {
+        "title": "Euphoria",
+        "price": 57.83,
+        "description": "Euphoria Perfume by Calvin Klein. Is a heavenly and intoxicating perfume for the woman. Its original blend of sparkly and sweet ingredients is simply irresistible. Persimmon and pomegranate open the scent with an uncommon kick. The two fruits combine for a rich aroma of musky, sweet wine deepened by green accords.",
+        "filter": "women",
+        "productCost": "lessExpensive",
+        "img": "/img/euphoria.jpg",
+        "alt": "Euphoria women's perfume"
+    },
+    {
+        "title": "Cool Water",
+        "price": 26.04,
+        "description": "Cool Water Cologne by Davidoff. Cool Water is a men’s aromatic aquatic cologne with aromatic, fresh spicy, marine, green, and woody main accords. The fragrance is suitable for summer day wear and has moderate sillage and longevity.",
+        "filter": "men",
+        "productCost": "lessExpensive",
+        "img": "/img/coolwater.jpg",
+        "alt": "Cool Water men's cologne"
+    },
+    {
+        "title": "Red Door",
+        "price": 27.84,
+        "description": "Red Door Perfume by Elizabeth Arden. Red Door is a floral oriental fragrance for women. This now classic fragrance strikes the perfect balance between floral, woody and spicy accords. The perfume opens with notes of orange blossom, plum, peach and anise. The heart, containing notes of rose, jasmine, lily-of-the-valley, ylang ylang, orris and honey, is intensely floral and sweet. The fragrance closes with warm spicy notes of heliotrope, sandalwood, cedar, musk, amber and benzoin.",
+        "filter": "women",
+        "productCost": "lessExpensive",
+        "img": "/img/reddoor.jpg",
+        "alt": "Red Door women's perfume"
+    },
+    {
+        "title": "Versace Man",
+        "price": 72.82,
+        "description": "Versace Man Cologne by Versace. Is a Mediterranean-inspired fragrance, the scent of which hints at summer days by the water. The cologne’s fresh and clean top notes of lemon, bergamot, rosewood and rose give way to an alluring heart of cedar, tarragon, sage and pepper. The base notes of amber, musk, tobacco, sycamore and saffron combine to create an everyday scent that fosters confidence in nearly every situation, from a day at the office to a vacation at the beach.",
+        "filter": "men",
+        "productCost": "moreExpensive",
+        "img": "/img/versaceman.jpg",
+        "alt": "Versace Man men's cologne"
+    },
+    {
+        "title": "Obsession (for women)",
+        "price": 24.98,
+        "description": "Obsession Perfume by Calvin Klein. This perfume creates an intoxicating blend of powdery and balsamic tones. Green notes, vanilla, fruity peach, bergamot, lemon, mandarin orange and aromatic basil open the scent. The middle is comprised of spices, coriander, cedar, rose, oakmoss, jasmine, orange blossom, sandalwood and jasmine. The bottom dries down with accords of smoky incense, earthy vetiver, civet, vanilla, musk and amber.",
+        "filter": "women",
+        "productCost": "lessExpensive",
+        "img": "/img/obession.jpg",
+        "alt": "Obesession women's perfume"
+    },
+    {
+        "title": "The One",
+        "price": 77.82,
+        "description": "The One Cologne by Dolce & Gabbana. The One by Dolce & Gabbana is a unique blend of amber and spicy accords. The cologne opens with notes of crisp bergamot, peppery basil and warm coriander. These scents give way to the middle notes of cardamom, ginger, and neroli, giving a warm and lightly floral heart. The fragrance closes with scents of cedar, ambergris and tobacco, striking a distinctly masculine note.",
+        "filter": "men",
+        "productCost": "moreExpensive",
+        "img": "/img/theone.jpg",
+        "alt": "The One men's cologne"
+    }
+]
