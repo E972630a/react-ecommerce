@@ -5,7 +5,10 @@ import Filter from '../Filter/filter';
 class Products extends React.Component {
     render() {
         return (
-            <Filter />
+            <div>
+                <div className="showcase" />
+                <Filter />
+            </div>
         )
     }
 }

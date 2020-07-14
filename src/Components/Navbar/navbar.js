@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import '../../App.css'
 
 export default class Navbar extends React.Component {
@@ -12,9 +11,9 @@ export default class Navbar extends React.Component {
                         <div className="container">
                             <h1>PFRAGRANCE</h1>
                             <ul>
-                                <li><Link exact={true} to="/index">Home</Link></li>
-                                <li><Link exact={true} to="/products">Products</Link></li>
-                                <li><Link exact={true} to="/contact">Contact</Link></li>
+                                <li><a href="/">Home</a></li>
+                                <li><a href="/product">Products</a></li>
+                                <li><a href="/contact">Contact</a></li>
                             </ul>
                         </div>
                     </nav>

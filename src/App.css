@@ -81,7 +81,7 @@ a {
 #home-info .info-img {
   float: left;
   width: 50%;
-  background: url('/public/img/slideShowImage3.jpg') no-repeat center center/cover;
+  background: url('/img/slideShowImage3.jpg') no-repeat center center/cover;
   min-height: 100%;
 }
 

@@ -41,3 +41,18 @@
     -->
   </body>
 </html>
+<script>
+  var mySlideShow = 0;
+  carousel();
+  function carousel() {
+      var images;
+      var slide = document.getElementsByClassName("imageSlides");
+      for (images = 0; images < slide.length; images++) {
+          slide[images].style.display = "none";
+      }
+      mySlideShow++;
+      if (mySlideShow > slide.length) { mySlideShow = 1 }
+      slide[mySlideShow - 1].style.display = "block";
+      setTimeout(carousel, 2000);
+  }
+</script>
