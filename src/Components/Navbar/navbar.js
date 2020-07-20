@@ -12,7 +12,7 @@ export default class Navbar extends React.Component {
                             <h1>PFRAGRANCE</h1>
                             <ul>
                                 <li><a href="/">Home</a></li>
-                                <li><a href="/product">Products</a></li>
+                                <li><a href="/products">Products</a></li>
                                 <li><a href="/contact">Contact</a></li>
                             </ul>
                         </div>
